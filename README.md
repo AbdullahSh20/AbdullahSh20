@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋 I'm Abdullah Shamout
 
-<!--
-**AbdullahSh20/AbdullahSh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Engineering at Istanbul Technical University.
+- 💡 Interested in Artificial Intelligence, Embedded Systems, and Low-Level Development.
+- 😺 A cats enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time:
+
+- 🛠️ I like Working on personal projects.
+- ⚽️ I enjoy playing football.
+- 🏊 I Love spending time swimming.
+- 🏓 I enjoy playing table tennis.
+- 🥋 I practice martial arts.
+
+## Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abdullah-shamout/)
+- 🔗 [Personal Page](https://abdullahsh20.github.io/)
+
+I am open for collaborations on interesting projects across multiple fields. Feel free to explore my repositories and connect with me! Let's code and learn together. 🚀
