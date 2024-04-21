@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Studying Computer Engineering at Istanbul Technical University.
-- 💡 Interested in Artificial Intelligence, Embedded Systems, and Low-Level Development.
+- 💡 Interested in Artificial Intelligence and Backend Development.
 - 😺 A cats enthusiast.
 
 In my free time:
