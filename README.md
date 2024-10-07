@@ -6,8 +6,9 @@
 ## About Me
 
 - 🎓 Studying Computer Engineering at Istanbul Technical University.
-- 💡 Interested in Artificial Intelligence and Backend Development.
+- 💡 Interested in Artificial Intelligence, Robotics, Backend Development, Networking, and DevOps.
 - 😺 A cats enthusiast.
+- 🏋️ Gym rat.
 
 In my free time:
 
@@ -16,7 +17,7 @@ In my free time:
 - 🏊 I Love spending time swimming.
 - 🏓 I enjoy playing table tennis.
 - 🥋 I practice martial arts.
-
+- 🏃‍♂️ I like going on runs.
 ## Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abdullah-shamout/)
