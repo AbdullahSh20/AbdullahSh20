@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Abdullah Shamout
 
-![wide putin](https://github.com/AbdullahSh20/AbdullahSh20/assets/117589058/056f0c6d-6027-4a5c-81e3-bec34f5b9318)
-
-
 ## About Me
 
 - 🎓 Studying Computer Engineering at Istanbul Technical University.
