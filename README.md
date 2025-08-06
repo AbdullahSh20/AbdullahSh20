@@ -2,18 +2,18 @@
 
 ## About Me
 
-- 🎓 Studying Computer Engineering at Istanbul Technical University.
+- 🎓 BE in Computer Engineering from Istanbul Technical University.
 - 💡 Interested in Computer Vision, Artificial Intelligence, and Robotics.
 - 😺 A cats enthusiast.
-- 🏋️ Gym rat.
 
 In my free time:
 
 - 🛠️ I like Working on personal projects.
+- ✈ I enjoy visiting new places.
+- 🏋️ I like working out.
 - ⚽️ I enjoy playing football.
-- 🏊 I Love spending time swimming.
-- 🏓 I enjoy playing table tennis.
-- 🥋 I practice martial arts.
+- 🏊 I love swimming.
+- 🌳 I enjoy spending time outdoors.
 - 🏃‍♂️ I like going on runs.
 ## Connect with Me
 
