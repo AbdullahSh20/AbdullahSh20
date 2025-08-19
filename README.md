@@ -2,19 +2,16 @@
 
 ## About Me
 
+- 💡 Interested in 3D Computer Vision, Deep Learning, and Generative AI.
 - 🎓 BE in Computer Engineering from Istanbul Technical University.
-- 💡 Interested in Computer Vision, Artificial Intelligence, and Robotics.
 - 😺 A cats enthusiast.
 
 In my free time:
 
 - 🛠️ I like Working on personal projects.
 - ✈ I enjoy visiting new places.
-- 🏋️ I like working out.
-- ⚽️ I enjoy playing football.
-- 🏊 I love swimming.
+- 🏊 I enjoy swimming.
 - 🌳 I enjoy spending time outdoors.
-- 🏃‍♂️ I like going on runs.
 ## Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abdullah-shamout/)
