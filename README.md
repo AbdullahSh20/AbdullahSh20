@@ -59,10 +59,6 @@ My interests tend to change around from time to time, but lately I have been mos
 
 ---
 
-Yes, I use AI models and their harnesses, It would be rather silly not to. With that said, they're still just tools, and I shan't be losing my edge to them anytime soon.
-
----
-
 My personal motto is:
 
 ## WASCAQSFFP
