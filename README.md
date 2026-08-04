@@ -16,21 +16,7 @@ Since it is fate that led you here, I might as well entertain you, or if you're 
 ---
 So...
 
-### My name is...
-
-# Abdullah
-
-*\<insert dramatic effects\>*
-
-*\<cue unnecessarily epic soundtrack\>*
-
-...
-
-...
-
-...
-
-Jokes aside.
+### My name is Abdullah
 
 I'm a Computer Engineer that takes pride in his ability to figure things out.
 
@@ -42,6 +28,7 @@ Nothing is unsolvable. Some problems simply require more pondering than others.
 Topics that I have dabbled into so far include:
 
 * Computer Vision
+* Computer Graphics
 * Generative AI
 * Agentic Workflows
 * Simulation Systems
@@ -78,7 +65,7 @@ It stands for:
 **F**irst
 **P**rinciples
 
-Not part of the motto, but I also admire three things immensely:
+Not part of the motto, but I also admire these three things immensely:
 
 * Genuineness.
 * Discipline.
@@ -101,3 +88,4 @@ https://www.linkedin.com/in/abdullah-shamout/
 
 
 *Happiness is uppa.*
+*Signoff by 3addah.*
